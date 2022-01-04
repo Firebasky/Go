@@ -5,11 +5,8 @@
 
 
 ## 框架漏洞
-
-### Grafana
-
-### apisix
-
+- [Grafana](./框架/Grafana/)
+- [apisix](./框架/apisix/)
 
 ## 安全工具
 自己写的rmi利用防止反置问题 [GoRmi](https://github.com/Firebasky/GoRmi)
