@@ -8,7 +8,7 @@ Apache APISIX 是一个动态、实时、高性能的API 网关， 提供负载�
 
 [CVE-2021-45232 Apache APISIX Dashboard 认证绕过漏洞分析](https://www.wangan.com/p/7fy747719a2907e1)
 
-** 实际上就是/apisix/admin/migrate/export，/apisix/admin/migrate/import 没有做权限验证**
+**实际上就是/apisix/admin/migrate/export,/apisix/admin/migrate/import 没有做权限验证**
 
 ## rce
 
