@@ -6,7 +6,7 @@
 
 ## 框架漏洞
 - [Grafana 任意文件读取](./框架/Grafana/)
-- [APISIX Dashboard 无授权](./框架/apisix/)
+- [APISIX Dashboard 未授权](./框架/apisix/)
 
 ## 安全工具
 自己写的rmi利用防止反置问题 [GoRmi](https://github.com/Firebasky/GoRmi)
