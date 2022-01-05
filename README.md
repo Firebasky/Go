@@ -6,6 +6,9 @@
 ## 代码审计
 - [Go语言代码安全审计分享](https://www.freebuf.com/articles/web/224363.html)
 
+```
+路径穿越写计划任务/etc/cron.hourly/shell getshell
+```
 
 ## 框架漏洞
 - [Grafana 任意文件读取](./框架/Grafana/)
