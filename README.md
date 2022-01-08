@@ -3,6 +3,11 @@
 > Go语言本来就比较安全hhh,介绍一些go相关的安全知识和安全开发，学习中ing 
 > 跟着大哥atao学习。
 
+## Go web
+简单的了解了gin框架,小类型的demo
+
+[bubble](https://github.com/Q1mi/bubble)
+
 ## 代码审计
 - [Go语言代码安全审计分享](https://www.freebuf.com/articles/web/224363.html)
 
