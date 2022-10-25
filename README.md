@@ -20,6 +20,8 @@
 - [APISIX Dashboard 未授权](./框架/apisix/)
 - [CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html) **其中对ssrf处理非常好 (go中的302/307)ssrf->rce**
 
+- [The arbitrary file upload vulnerability caused by path traversal is on github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin/security/advisories/GHSA-wrmq-4v4c-gxp2)
+
 ## 安全工具
 自己写的rmi利用防止反置问题 [GoRmi](https://github.com/Firebasky/GoRmi)
 
