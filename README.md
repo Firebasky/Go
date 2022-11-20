@@ -14,6 +14,7 @@
 ```
 路径穿越写计划任务/etc/cron.hourly/shell getshell
 ```
+- [Go语言代码审计实战](https://mp.weixin.qq.com/s/u0lfUbemtXpgy-EQsqa5tw)
 
 ## 框架漏洞
 - [Grafana 任意文件读取](./框架/Grafana/)
