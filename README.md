@@ -2,6 +2,9 @@
 
 > Go语言本来就比较安全hhh,介绍一些go相关的安全知识和安全开发，学习中ing 
 > 跟着大哥atao学习。
+## Go 学习
+
++ [Go语言的IO库那么多，我该怎么选？](https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA)
 
 ## Go web
 简单的了解了gin框架,小类型的demo
