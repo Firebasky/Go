@@ -27,5 +27,10 @@
 - [The arbitrary file upload vulnerability caused by path traversal is on github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin/security/advisories/GHSA-wrmq-4v4c-gxp2)
 
 ## 安全工具
+
++ [Golang爬虫框架初探](https://www.sec-in.com/article/1819) **可能之后写工具有用**
+
 自己写的rmi利用防止反置问题 [GoRmi](https://github.com/Firebasky/GoRmi)
+
+
 
