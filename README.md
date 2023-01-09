@@ -6,6 +6,9 @@
 
 + [Go语言的IO库那么多，我该怎么选？](https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA)
 
+## Go 技术
++ ["ParseThru" – Exploiting HTTP Parameter Smuggling in Golang](https://www.oxeye.io/blog/golang-parameter-smuggling-attack)
+
 ## Go web
 简单的了解了gin框架,小类型的demo
 
